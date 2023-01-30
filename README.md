@@ -1,7 +1,6 @@
 # stevenbitner/autograding
-![CI Build](https://github.com/stevenbitner/autograding/actions/workflows/ci.yml/badge.svg)
 
-- This repo is forked from https://github.com/education/autograding/.
+- This repo is forked from https://github.com/stevenbitner/autograding/, which was forked from https://github.com/education/autograding/.
 - The source repository has not been updated in a long time, so I'm hoping to fix a few issues in this repo.
 
 ## Basic Usage
